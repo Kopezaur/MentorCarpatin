@@ -7,6 +7,13 @@
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Entities",
+        "person": "Person",
+        "route": "Route",
+        "routePerformance": "Route Performance",
+        "mountainRegion": "Mountain Region",
+        "country": "Country",
+        "report": "Report",
+        "rescueService": "Rescue Service",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
