@@ -10,6 +10,13 @@
         "bankAccount": "ContBancar",
         "label": "Etichetă",
         "operation": "Operație",
+        "person": "Person",
+        "route": "Route",
+        "routePerformance": "Route Performance",
+        "mountainRegion": "Mountain Region",
+        "country": "Country",
+        "report": "Report",
+        "rescueService": "Rescue Service",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
